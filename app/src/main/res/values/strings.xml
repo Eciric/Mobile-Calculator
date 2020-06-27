@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="teal">#008080</color>
+    <color name="niceBlueBoy">#05426e</color>
+    <color name="salmon">#bc8527</color>
+    <color name="lightSkyBlue">#4fabed</color>
+</resources>
